@@ -1,0 +1,14 @@
+C:\Users\Pichau\source\repos\TesteMatheus\TesteMatheus\bin\Debug\netcoreapp2.2\TesteMatheus.deps.json
+C:\Users\Pichau\source\repos\TesteMatheus\TesteMatheus\bin\Debug\netcoreapp2.2\TesteMatheus.runtimeconfig.json
+C:\Users\Pichau\source\repos\TesteMatheus\TesteMatheus\bin\Debug\netcoreapp2.2\TesteMatheus.runtimeconfig.dev.json
+C:\Users\Pichau\source\repos\TesteMatheus\TesteMatheus\bin\Debug\netcoreapp2.2\TesteMatheus.dll
+C:\Users\Pichau\source\repos\TesteMatheus\TesteMatheus\bin\Debug\netcoreapp2.2\TesteMatheus.pdb
+C:\Users\Pichau\source\repos\TesteMatheus\TesteMatheus\obj\Debug\netcoreapp2.2\TesteMatheus.csprojAssemblyReference.cache
+C:\Users\Pichau\source\repos\TesteMatheus\TesteMatheus\obj\Debug\netcoreapp2.2\TesteMatheus.csproj.CoreCompileInputs.cache
+C:\Users\Pichau\source\repos\TesteMatheus\TesteMatheus\obj\Debug\netcoreapp2.2\TesteMatheus.RazorAssemblyInfo.cache
+C:\Users\Pichau\source\repos\TesteMatheus\TesteMatheus\obj\Debug\netcoreapp2.2\TesteMatheus.RazorAssemblyInfo.cs
+C:\Users\Pichau\source\repos\TesteMatheus\TesteMatheus\obj\Debug\netcoreapp2.2\TesteMatheus.AssemblyInfoInputs.cache
+C:\Users\Pichau\source\repos\TesteMatheus\TesteMatheus\obj\Debug\netcoreapp2.2\TesteMatheus.AssemblyInfo.cs
+C:\Users\Pichau\source\repos\TesteMatheus\TesteMatheus\obj\Debug\netcoreapp2.2\TesteMatheus.RazorTargetAssemblyInfo.cache
+C:\Users\Pichau\source\repos\TesteMatheus\TesteMatheus\obj\Debug\netcoreapp2.2\TesteMatheus.dll
+C:\Users\Pichau\source\repos\TesteMatheus\TesteMatheus\obj\Debug\netcoreapp2.2\TesteMatheus.pdb
